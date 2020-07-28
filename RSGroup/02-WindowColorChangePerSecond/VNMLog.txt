@@ -1,0 +1,2 @@
+In WM_Create.
+In WM_DESTROY.

@@ -1,0 +1,35 @@
+## SDK Assignments ##
+
+	16 july 2020
+1. Hello world - color change on key press.. r, g, b, cyan, magenta, yellow
+	-On key OS does not create PAINT msg so on key press to call paint API-- InvalidateRect()
+	-API to delete GDI objectslike HBRush, Font, - DeleteObject
+
+	18 july 2020
+2. Window Color change on key press
+3. Timer function - animation - window color change per second
+
+	22 july 2020
+4. Color palette animation on window
+
+	23 July 2020
+5. Hacking Notepad
+	EnumWindow()
+	To change icon, tittle, maximize, close, delete menu
+	
+	EnumChildrenWindow()
+	Change notepad text
+	
+	Try on Paint
+	
+6. Bitmap
+	GetModuleHandle() 1st param NULL- It gives your current window Hinstance
+	StretchBlt
+	BitBlt
+	multiple bitmaps loading like color palette
+	
+
+
+	
+	
+	

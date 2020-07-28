@@ -1,0 +1,5 @@
+#pragma once
+#include "MyWindow.h"
+
+
+MYICON ICON VNMLogo.ico
